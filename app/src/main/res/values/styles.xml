@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SmallRatingBar" parent="Widget.AppCompat.RatingBar">
+        <item name="android:scaleX">0.50</item> <!-- Ajusta este valor para cambiar el tamaño -->
+        <item name="android:scaleY">0.50</item> <!-- Ajusta este valor para cambiar el tamaño -->
+    </style>
+</resources>
